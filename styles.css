@@ -1,0 +1,8 @@
+#about {
+    max-width: 800px; /* Limits text width */
+    margin: 0 auto; /* Centers the section */
+    text-align: justify; /* Aligns text neatly */
+    padding: 20px; /* Adds spacing */
+    background: rgba(255, 255, 255, 0.8); /* Light background */
+    border-radius: 10px; /* Rounded corners */
+}
