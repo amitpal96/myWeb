@@ -3,6 +3,6 @@
     margin: 0 auto; /* Centers the section */
     text-align: justify; /* Aligns text neatly */
     padding: 20px; /* Adds spacing */
-    background: rgba(255, 255, 255, 0.0); /* Light background */
+    /* Remove the background property to allow blending */
     border-radius: 10px; /* Rounded corners */
 }
