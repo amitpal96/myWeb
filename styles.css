@@ -6,3 +6,14 @@
     /* Remove the background property to allow blending */
     border-radius: 10px; /* Rounded corners */
 }
+
+#myHeader {  /* Or target your header element however you've identified it */
+  background-image: url("NuFact2024ConferencePicture.jpg"); /* Replace with the actual path */
+  background-size: cover; /* or contain, auto, etc. (see below) */
+  background-repeat: no-repeat; /* Prevents image tiling */
+  background-position: center; /* Positions the image (e.g., center, top, bottom) */
+  /* Other header styles (padding, height, etc.) */
+  padding: 20px; /* Example padding */
+  height: 200px; /* Example height – adjust as needed */
+  color: white; /* Example text color (adjust as needed for image contrast) */
+}
