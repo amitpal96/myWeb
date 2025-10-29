@@ -17,3 +17,29 @@
   height: 200px; /* Example height – adjust as needed */
   color: white; /* Example text color (adjust as needed for image contrast) */
 }
+
+#research {
+  max-width: 800px;       /* limits the width so it doesn't cover full page */
+  margin: 50px auto;      /* centers it horizontally */
+  padding: 20px;
+  background-color: #f9f9f9;  /* subtle light-gray background */
+  border-radius: 12px;    /* rounded corners */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* soft shadow */
+}
+
+#research h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#research ul {
+  list-style-type: disc;
+  padding-left: 40px;    /* space for bullet points */
+  line-height: 1.6;
+}
+
+#research li {
+  margin-bottom: 15px;
+  color: #444;
+}
