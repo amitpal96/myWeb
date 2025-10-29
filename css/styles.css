@@ -8,7 +8,7 @@
 }
 
 #myHeader {  /* Or target your header element however you've identified it */
-  background-image: url("../figures/NOvA_IIT.png"); /* Replace with the actual path */
+  /*background-image: url("../figures/NOvA_IIT.png"); /* Replace with the actual path */
   background-size: cover; /* or contain, auto, etc. (see below) */
   background-repeat: no-repeat; /* Prevents image tiling */
   background-position: center; /* Positions the image (e.g., center, top, bottom) */
